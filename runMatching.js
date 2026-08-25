@@ -1,4 +1,4 @@
-const { matchAgency } = require("./matcher");
+const { matchAgency } = require("./services/matcher");
 const path = require("path")
 
 async function run() {
